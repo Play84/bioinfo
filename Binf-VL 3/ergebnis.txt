@@ -1,0 +1,36 @@
+0	Mensch
+1	Maus
+2	Rind
+3	Ratte
+4	Huhn
+5	Xenopus
+6	Fruchtfliege
+7	Zebrafisch
+
+Matrix am Anfang, laut programm
+
+	Mensch	Maus	Rind	Rat	Huhn	Xenopus	Drosophila
+	0	1	2	3	4	5	6
+Ze 7	1950	1985	1946	1988	2043	1990	1615	
+
+Dr 6	1602	1629	1609	1636	1620	1633
+
+Xe 5	2000	2002	1997	2012	2056
+
+Hu 4	2116	2135	2091	2140
+
+Ra 3	2390	2534	2350
+
+Ri 2	2401	2360
+
+Me 1	2397
+
+Baum:
+
+(3,1) 		2534
+(2,0)		2401
+(20,31)		2374
+(4,2031)		2120
+(42031,5)		2029
+(7,420315)	1997
+(6,7420315) 	1620
